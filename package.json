@@ -1,0 +1,11 @@
+{
+  "name": "com.tl.securelib",
+  "version": "0.0.1",
+  "displayName": "TLSecureLib",
+  "description": "Library for securing data",
+  "dependencies": {},
+  "author": {
+    "name": "Le Chau Tu",
+    "email": "lechautu1993@gmail.com"
+  }
+}
